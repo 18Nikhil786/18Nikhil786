@@ -1,6 +1,6 @@
-# 🌐 Asmit Anand – Frontend Web Developer | React Enthusiast | UI/UX Focused
+# 🌐 Nikhil Chander – Frontend Web Developer | React Enthusiast | UI/UX Focused
 
-Hi! I'm **Asmit Anand**, a passionate **Frontend Web Developer** skilled in building modern, responsive, and user-friendly web interfaces using **React**, **JavaScript**, **HTML**, and **CSS**. I recently completed my training at **Masai School**, where I built several frontend projects and improved my skills in design, logic, and collaboration.
+Hi! I'm **Nikhil Chander**, a passionate **Frontend Web Developer** skilled in building modern, responsive, and user-friendly web interfaces using **React**, **JavaScript**, **HTML**, and **CSS**. I recently completed my training at **Masai School**, where I built several frontend projects and improved my skills in design, logic, and collaboration.
 
 ---
 
@@ -16,16 +16,16 @@ Hi! I'm **Asmit Anand**, a passionate **Frontend Web Developer** skilled in buil
 
 ## 📂 Projects
 
-### Study Adda (Frontend)
-- Developed an ed-tech platform providing interactive learning experiences for students and instructors. Built dynamic UI components and managed state-driven features for user interaction.
-- **Features**:  Student & Instructor dashboards, Learning modules, Rating system
-- **Code**: [GitHub Repo](https://github.com/asmit-17/StudyAdda)
+### Fitness Buddy(Frontend)
+-FitnessBuddy_App is a fitness community app that connects users with workout partners who share similar goals. It offers features like goal tracking, progress reports, and motivational challenges to help users stay fit and engaged.
+- **Features**:  User dashboards, Workout Tracking,Messaging System
+- **Code**: [GitHub Repo](https://github.com/18Nikhil786/Fitness-Buddy)
 
 
-### Medtrack
-- Developed a medication tracking web app to help users manage prescriptions and get real-time reminders. Integrated Firebase services for authentication and cloud data storage.
-- **Features**:Prescription logging, daily reminders, real-time sync
-- **Code**: [GitHub Repo](https://github.com/asmit-17/prescription-management)
+### Urban Craze (Full Stack)
+- Developed a e commerce website for sneaker lovers . Added a payment system ,dashboard, user authentication and handled data through mongo db
+- **Features**:Rating System, Add to cart feature, real-time sync
+- **Code**: [GitHub Repo](https://github.com/18Nikhil786/URBAN-KRAZE)
 
 ---
 
@@ -47,9 +47,9 @@ I aspire to work as a **Frontend Developer** where I can contribute to real-worl
 
 ## 📫 Let's Connect
 
-- **Email**: asmitanand17@gmail.com  
-- **LinkedIn**: [linkedin.com/in/asmit-anand](https://www.linkedin.com/in/asmitanand17/)
-- **GitHub**: [github.com/AsmitAnand](https://github.com/asmit-17)
+- **Email**: nikhilchander798@gmail.com  
+- **LinkedIn**: (https://www.linkedin.com/in/nikhil-chander-b5732b34b)
+- **GitHub**: [https://github.com/18Nikhil786]
 
 ---
 
